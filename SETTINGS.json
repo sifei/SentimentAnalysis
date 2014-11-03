@@ -1,0 +1,7 @@
+{
+    "train_path1":"consolidate_features_rule.csv",
+    "train_path":"E:/2013Fall/Research/Test_apoorv/consolidate_rand_train_80.csv",
+    "model_path":"E:/2013Fall/Research/Test_apoorv/SVM_model.pickle",
+    "submission_path": "E:/2013Fall/Research/Test_apoorv/Predict/predict.csv",
+    "test_path":"E:/2013Fall/Research/Test_apoorv/test_feature1.csv"
+}
